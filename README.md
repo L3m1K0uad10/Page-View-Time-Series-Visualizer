@@ -19,3 +19,5 @@ understand the patterns in visits and identify yearly and monthly growth.
 * Creating a __draw_bar_plot__ function that draws a bar chart similar to "examples/Figure_2.png". It should show average daily page views for each month grouped by year. The legend should show month labels and have a title of __Months__. On the chart, the label on the x axis should be __Years__ and the label on the y axis should be __Average Page Views__.
 * Creating a __draw_box_plot__ function that uses Seaborn to draw two adjacent box plots similar to "examples/Figure_3.png". These box plots should show how the values are distributed within a given year or month and how it compares over time. The title of the first chart should be __Year-wise Box Plot (Trend)__ and the title of the second chart should be __Month-wise Box Plot (Seasonality)__. Make sure the month labels on bottom start at __Jan__ and the x and y axis are labeled correctly. The boilerplate includes commands to prepare the data.
 
+**FOR RESULT VISUALIZATION**: check out line_plot.png, bar_plot.png and box_plot.png 
+
