@@ -12,7 +12,7 @@ The dataset contains the number of page views each day on the FreeCodeCamp.org f
 understand the patterns in visits and identify yearly and monthly growth.
 
 
-#### This project content:
+#### project content:
 * Using Pandas to import the data from "fcc-forum-pageviews.csv". Set the index to the __date__ column.
 * Cleaning the data by filtering out days when the page views were in the top 2.5% of the dataset or bottom 2.5% of the dataset.
 * Creating a __draw_line_plot__ function that uses Matplotlib to draw a line chart similar to "examples/Figure_1.png". The title should be __Daily freeCodeCamp Forum Page Views 5/2016-12/2019__. The label on the x axis should be Date and the label on the y axis should be Page Views.
